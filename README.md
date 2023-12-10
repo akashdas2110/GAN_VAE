@@ -2,6 +2,7 @@ NAME- Akash Das (MDS202206)
 WEBMAIL- akashd@cmi.ac.in
 
 Image Generation and Interpolation : Using GAN and VAE
+
 Org Name: CMI | Oct 2023 - Nov 2023
 
 Create a GAN for MNIST dataset which has 28x28 grayscale images of 10 digits. Generate 10 images from random codewords.After that pick two random codewords, a and b, and pick 10 uniformly spaced
