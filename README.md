@@ -1,13 +1,11 @@
 NAME- Akash Das (MDS202206)
 WEBMAIL- akashd@cmi.ac.in
+
 Image Generation and Interpolation : Using GAN and VAE
 Org Name: CMI | Oct 2023 - Nov 2023
-Create a GAN for MNIST dataset which has 28x28 grayscale images
-of 10 digits. Generate 10 images from random codewords.After that
-pick two random codewords, a and b, and pick 10 uniformly spaced
-points between a and b on the line from a to b and then generated
-images from these 12 points.Then use VAE to get meaningful
-interpolations between 2 images generated using GAN.
+
+Create a GAN for MNIST dataset which has 28x28 grayscale images of 10 digits. Generate 10 images from random codewords.After that pick two random codewords, a and b, and pick 10 uniformly spaced
+points between a and b on the line from a to b and then generated images from these 12 points.Then use VAE to get meaningful interpolations between 2 images generated using GAN.
 
 1. Introduction:
 We implemented Generative Adversarial Network (GAN) applied to the MNIST digit dataset within a Python environment. The objective here was to synthesize digit images that are statistically similar to the authentic MNIST dataset.
